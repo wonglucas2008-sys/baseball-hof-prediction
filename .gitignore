@@ -1,0 +1,11 @@
+# data and local files
+data/
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# assignment materials (do not publish)
+*.doc
+*.docx
+*.pptx
